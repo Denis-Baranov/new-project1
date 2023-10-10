@@ -1,4 +1,10 @@
 public class Square {
-    public int length;
-    public int width;
+
+    public static void main(String[] args) {
+
+        int a=3;
+        int b=4;
+        int c = a+b;
+        System.out.println( "Hello world! " + c);
+    }
 }
